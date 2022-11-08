@@ -1,0 +1,8 @@
+Base de datos para crear una API de un blog
+
+Tablas :
+    --> users
+    --> role
+    --> categories
+    --> posts
+    --> comments
